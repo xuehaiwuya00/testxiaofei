@@ -1,4 +1,4 @@
-# a = "aaa666666666666"
+# a = "aaa"
 # b = a
 # a = "ccc"
 # print(b)
